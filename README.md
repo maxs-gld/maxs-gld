@@ -2,7 +2,7 @@
 
 ![Image](lien_vers_votre_image_de_profil.jpg)
 
-Je suis maxs-gld, je suis un étudiant en informatique.
+Je suis [maxs-gld], [je suis un étudiant en informatique].
 
 ## Projets
 
