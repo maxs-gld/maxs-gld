@@ -1,10 +1,19 @@
-<h1 align=center > Hi 👋, I'm maxs-gld</h1>
+# Bienvenue sur mon profil GitHub
 
-<h2>I am a computer science student, here are my projects done during my training:<h2>
-...
-<h2>my networks:</h2>
-...
+![Image](lien_vers_votre_image_de_profil.jpg)
 
-  <br>
-![logo](http://https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg)
+Je suis [maxs-gld], [je suis un étudiant en informatique].
 
+## Projets
+
+### Projet 1 : [sactu du ballon orange]()
+- Description : actualité sur le basket
+- Technologies utilisées : html, css et javascript.
+
+
+## Réseaux Sociaux
+
+Vous pouvez me suivre sur les réseaux sociaux juste ici
+
+- [Twitter](https://twitter.com/max49x2)
+- [Instagram](https://www.instagram.com/maxs_gld/)
