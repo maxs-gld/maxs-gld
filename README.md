@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub
 
-<img src="(https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg)" alt="Image de Profil" width="50">
+<img src="([https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg])" alt="Image de Profil" width="50">
 
 
 Je suis [maxs-gld], [je suis un étudiant en informatique].
