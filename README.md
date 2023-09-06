@@ -1,8 +1,5 @@
 # Hi 👋 I'm maxs-gld
 
-<img src="([https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg])" alt="Image de Profil" width="50">
-
-
 I am maxs-gld, I am a computer science student.
 
 ## Projects
