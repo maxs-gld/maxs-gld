@@ -6,5 +6,5 @@
 ...
 
   <br>
-![logo](http://https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg.png)
+![logo](http://https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg)
 
