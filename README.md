@@ -2,8 +2,9 @@
 
 <h2>I am a computer science student, here are my projects done during my training:<h2>
 ...
-<h3>my networks:</h3>
+<h2>my networks:</h2>
 ...
-<br>
+
+  <br>
 ![Logo](/github/code.png)
 
