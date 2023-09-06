@@ -5,9 +5,9 @@
 
 I am maxs-gld, I am a computer science student.
 
-## Projets
+## Projects
 
-### Projet 1 : [sactu du ballon orange](not available)
+### Project 1 : [actu du ballon orange](not available)
 - Description : basketball news
 - what I used : html, css and javascript.
 
