@@ -20,6 +20,9 @@ You can follow me on social media right here:
 </a>
 
 - [Instagram](https://www.instagram.com/maxs_gld/)
+- <a href="https://www.instagram.com/maxs_gld/">
+  <img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="Logo de GitHub" width="30" height="30">
+</a>
 
 ## language used
 - python ✔
