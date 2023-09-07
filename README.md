@@ -51,4 +51,6 @@ You can follow me on social media right here:
   <img src="https://logowik.com/content/uploads/images/321_c.jpg" alt="Logo de C++" width="30" height="30">
 </a>
 
+https://profile-counter.glitch.me/maxs-gld/count.svg
+
 
