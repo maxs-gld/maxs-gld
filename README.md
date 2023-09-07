@@ -26,5 +26,5 @@ You can follow me on social media right here:
 - c ❌
 - c++ ❌
 
-[![Logo de Twitter](https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg)(https://twitter.com/max49x2)
+[![Logo de Twitter](https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg)](https://twitter.com/max49x2)
 
