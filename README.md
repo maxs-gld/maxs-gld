@@ -27,19 +27,24 @@ You can follow me on social media right here:
 - <a href="https://www.python.org/"> ✔
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Logo de Python" width="30" height="30">
 </a>
+
 - <a href="https://html.com/"> ✔
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-icons-download-14.png" alt="Logo de HTML" width="30" height="30">
 </a>
+
 - <a href="https://javascript.com/"> ✔
   <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png" alt="Logo de Javascript" width="30" height="30">
 </a>
+
 - <a href="https://www.w3schools.com/css/"> ✔
   <img src="https://t4.ftcdn.net/jpg/00/83/80/41/360_F_83804148_HsmDsJ4bY3POOhAjGW7ocopVyxXkwb14.jpg" alt="Logo de CSS" width="30" height="30">
 </a>
+
 - <a href="https://www.w3schools.com/c/index.php"> ❌
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Logo de C" width="30" height="30">
 </a>
-- a href="https://www.w3schools.com/cpp/default.asp"> ❌
+
+- <a href="https://www.w3schools.com/cpp/default.asp"> ❌
   <img src="https://logowik.com/content/uploads/images/321_c.jpg" alt="Logo de C++" width="30" height="30">
 </a>
 
