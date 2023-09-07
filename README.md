@@ -24,8 +24,8 @@ You can follow me on social media right here:
 
 ## language used
 - <a href="https://www.python.org/">
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Logo de Python" width="30" height="30">
-</a>✔
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Logo de Python"✔ width="30" height="30">
+</a>
 - HTML ✔
 - Javascript ✔
 - css ✔
