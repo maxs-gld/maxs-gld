@@ -27,4 +27,8 @@ You can follow me on social media right here:
 - c++ ❌
 
 [![Logo de Twitter](https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg)](https://twitter.com/max49x2)
+<a href="https://twitter.com/max49x2">
+  <img src="https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg" alt="Logo de GitHub" width="50" height="50">
+</a>
+
 
