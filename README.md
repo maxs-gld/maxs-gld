@@ -8,6 +8,7 @@ I am maxs-gld, I am a computer science student.
 - Description : basketball news
 - what I used : html, css and javascript.
 - this is my first website
+- this site will be updated if any bugs are reported
 
 
 ## social networks
