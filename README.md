@@ -17,3 +17,11 @@ You can follow me on social media right here:
 
 - [Twitter](https://twitter.com/max49x2)
 - [Instagram](https://www.instagram.com/maxs_gld/)
+
+## language used
+- python ✔
+- HTML ✔
+- Javascript ✔
+- css ✔
+- c ❌
+- c++ ❌
