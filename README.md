@@ -15,7 +15,10 @@ I am maxs-gld, I am a computer science student.
 
 You can follow me on social media right here:
 
-- [Twitter](https://twitter.com/max49x2)
+- <a href="https://twitter.com/max49x2">
+  <img src="https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg" alt="Logo de GitHub" width="30" height="30">
+</a>
+
 - [Instagram](https://www.instagram.com/maxs_gld/)
 
 ## language used
@@ -25,10 +28,5 @@ You can follow me on social media right here:
 - css ✔
 - c ❌
 - c++ ❌
-
-
-<a href="https://twitter.com/max49x2">
-  <img src="https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg" alt="Logo de GitHub" width="50" height="50">
-</a>
 
 
