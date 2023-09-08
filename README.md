@@ -28,8 +28,8 @@ You can follow me on social media right here:
 
 ## language used
 - <a href="https://www.python.org/"> 
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Logo de Python" width="30" height="30">
-</a> ✔
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Logo de Python" width="30" height="30">✔
+</a> 
 
 - <a href="https://html.com/"> ✔
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-icons-download-14.png" alt="Logo de HTML" width="30" height="30">
