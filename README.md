@@ -13,6 +13,11 @@ I am maxs-gld, I am a computer science student.
 - this is my first website
 - this site will be updated if any bugs are reported✅
 
+### Project 2 : [site du club de basket bcsb](in progress)
+-
+-
+-
+
 
 ## social networks
 
