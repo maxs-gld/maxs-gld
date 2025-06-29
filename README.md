@@ -1,64 +1,32 @@
-# Hi 👋 I'm maxs-gld
+# 👋 Hello, I'm Maxs-GLD 
 
-![alt text](https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg?size=626&ext=jpg)
+![Banner](https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg)
 
+**Computer Science Student** | **Web Developer** | **Tech Enthusiast**
 
-I am maxs-gld, I am a computer science student.
+Passionate about programming, web development and basketball. Constantly learning and building new projects to improve my skills.
 
-## Projects
+## 🛠 Skills & Technologies
 
-### Project 1 : [basketball news](not available🚫)
-- Description : basketball news🏀
-- what I used : html, css and javascript.💻
-- this is my first website
-- this site will be updated if any bugs are reported✅
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://www.python.org/static/img/python-logo.png" height="30" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30" alt="HTML5">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" alt="CSS3">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="30" alt="C">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="C++">
+</div>
 
-### Project 2 : [site du club de basket bcsb](in progress)
--
--
--
-### Project 3 : [site Ma Terminale 2023](in progress)
-- terminal program
--
--
+## 🚀 Upcoming Projects
 
-## social networks
+*(I'll add my projects here manually)*
 
-You can follow me on social media right here:
+## 📫 Let's Connect
 
-- <a href="https://twitter.com/max49x2">
-  <img src="https://img.freepik.com/vecteurs-premium/icone-carree-du-logo-twitter_444390-7003.jpg?size=626&ext=jpg" alt="Logo de GitHub" width="30" height="30">
-</a>
+[<img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30">](https://twitter.com/max49x2)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30">](https://www.instagram.com/maxs_gld/)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30">](https://github.com/maxs-gld)
 
-- <a href="https://www.instagram.com/maxs_gld/">
-  <img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="Logo de GitHub" width="30" height="30">
-</a>
+## 📊 Stats
 
-## language used
-- <a href="https://www.python.org/"> 
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Logo de Python" width="30" height="30">✔
-</a> 
-
-- <a href="https://html.com/"> 
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-icons-download-14.png" alt="Logo de HTML" width="30" height="30">✔
-</a>
-
-- <a href="https://www.w3schools.com/css/"> 
-  <img src="https://t4.ftcdn.net/jpg/00/83/80/41/360_F_83804148_HsmDsJ4bY3POOhAjGW7ocopVyxXkwb14.jpg" alt="Logo de CSS" width="30" height="30">✔
-</a>
-
-- <a href="https://javascript.com/"> 
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png" alt="Logo de Javascript" width="30" height="30">❌
-</a>
-
-- <a href="https://www.w3schools.com/c/index.php"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Logo de C" width="30" height="30">❌
-</a>
-
-- <a href="https://www.w3schools.com/cpp/default.asp"> 
-  <img src="https://logowik.com/content/uploads/images/321_c.jpg" alt="Logo de C++" width="30" height="30">❌
-</a>
-
-![alt text](https://profile-counter.glitch.me/maxs-gld/count.svg)
-
-
+![Profile Views](https://profile-counter.glitch.me/maxs-gld/count.svg)
