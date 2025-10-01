@@ -2,31 +2,120 @@
 
 ![Banner](https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg)
 
-**Computer Science Student** | **Web Developer** | **Tech Enthusiast**
+**Étudiant en BTS SIO 2ème année** | **Développeur Web** | **Passionné de Technologie**
 
-Passionate about programming, web development and applications. Constantly learning and building new projects to improve my skills in school or in my home.
+## 📖 À propos de moi
 
-## 🛠 Skills & Technologies
+🎓 **Formation:**
+- Baccalauréat: Spécialité mathématiques / NSI (2023 - 2024)
+- BTS SIO (Services Informatiques aux Organisations): 2ème année
+- Option: SLAM 
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <div><img src="https://www.python.org/static/img/python-logo.png" height="30" alt="Python"></div>
-  <div><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30" alt="HTML5"></div>
-  <div><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" alt="CSS3"></div>
-  <div><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" alt="JavaScript"></div>
-  <div><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" height="30" alt="Java"></div>
-  <div><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="C++"></div>
+💼 **Objectifs:**
+- Domaines d'intérêt : Sport, Programmation
+- Emplois en développement WEB
+
+🌟 **Centres d'intérêt:**
+- Langages préférés : HTML, CSS, PHP
+- ...
+
+## 🛠 Compétences & Technologies
+
+### 💻 Langages de Programmation
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
-## 🚀 Upcoming Projects
+### 🌐 Développement Web
+<div align="center">
 
-*(additions to upcoming projects)*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 📫 Let's Connect
+</div>
 
-[<img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="30">](https://twitter.com/max49x2)\
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30">](https://www.instagram.com/maxs_gld/)\
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30">](https://github.com/maxs-gld)
+### 🗃️ Bases de Données & Outils
+<div align="center">
 
-## 📊 Stats
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📂 Projets
+
+### 🚀 Projets en Cours
+- **[À compléter - Nom du projet]**: [Brève description]
+- **[À compléter - Nom du projet]**: [Brève description]
+
+### 💡 Projets à Venir
+- **[À compléter - Idée de projet]**: [Description]
+- **[À compléter - Idée de projet]**: [Description]
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=maxs-gld&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=maxs-gld&layout=compact&theme=radical)
+
+</div>
+
+<div align="center">
 
 ![Profile Views](https://profile-counter.glitch.me/maxs-gld/count.svg)
+
+</div>
+
+## 🏆 Accomplissements
+
+### 🎓 Certifications & Diplômes
+- **Baccalauréat**: [À compléter - Mention/Année]
+- **BTS SIO**: En cours (Terminal en [Année])
+- **[À compléter - Autres certifications]**
+
+### 📜 Badges & Compétences Validées
+- [À compléter - Compétences techniques validées]
+- [À compléter - Projets scolaires notables]
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/max49x2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxs_gld/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxs-gld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([À compléter - Lien LinkedIn])
+
+</div>
+
+## 📝 Dernières Activités
+
+🚀 Nouvelles compétences en développement en cours d'acquisition  
+📚 Formation BTS SIO en progression  
+💼 Projets étudiants en développement
+
+---
+
+<div align="center">
+
+⭐️ *"Le code, c'est de la poésie pour machines"* ⭐️
+
+</div>
+
+---
+
+**📧 Email**: maxence.gaillard.49@gmail.com 
+**📍 Localisation**: Angers / Cholet 
+**🎯 Statut**: À la recherche de stage
+
+---
+
+*Dernière mise à jour: 2024*
