@@ -66,12 +66,6 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://profile-counter.glitch.me/maxs-gld/count.svg)
-
-</div>
-
 ## 🏆 Accomplissements
 
 ### 🎓 Certifications & Diplômes
