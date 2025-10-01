@@ -92,7 +92,7 @@
 
 <div align="center">
 
-⭐️ *"Le code, c'est de la poésie pour machines"* ⭐️
+⭐️ *"Le succès est la somme de petits efforts répétés jour après jour."* ⭐️
 
 </div>
 
