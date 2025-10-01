@@ -52,12 +52,10 @@
 ## 📂 Projets
 
 ### 🚀 Projets en Cours
-- **[À compléter - Nom du projet]**: [Brève description]
-- **[À compléter - Nom du projet]**: [Brève description]
+- **Portfolio**: Regroupe mes travaux en développement, design et expérimentations.
 
 ### 💡 Projets à Venir
-- **[À compléter - Idée de projet]**: [Description]
-- **[À compléter - Idée de projet]**: [Description]
+- **Site surprise**: surprise
 
 ## 📊 Statistiques GitHub
 
@@ -77,22 +75,16 @@
 ## 🏆 Accomplissements
 
 ### 🎓 Certifications & Diplômes
-- **Baccalauréat**: [À compléter - Mention/Année]
-- **BTS SIO**: En cours (Terminal en [Année])
-- **[À compléter - Autres certifications]**
-
-### 📜 Badges & Compétences Validées
-- [À compléter - Compétences techniques validées]
-- [À compléter - Projets scolaires notables]
+- **Baccalauréat**: 2023 - 2024
+- **BTS SIO**: En cours (Terminal en 2024)
+- **Certifications réalisés (Openclassroom)**: Python, Java, CSS moderne, PHP et MySQL, Linux, HTML et CSS
 
 ## 📫 Me Contacter
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/max49x2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxs_gld/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxs-gld)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([À compléter - Lien LinkedIn])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-gaillard-182161328/)
 
 </div>
 
@@ -100,7 +92,7 @@
 
 🚀 Nouvelles compétences en développement en cours d'acquisition  
 📚 Formation BTS SIO en progression  
-💼 Projets étudiants en développement
+💼 Projets étudiants en développement + certification
 
 ---
 
