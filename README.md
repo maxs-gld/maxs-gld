@@ -1,107 +1,116 @@
-# 👋 Hello, I'm Maxs-GLD 
+# 👋 Hello, I'm Maxs-GLD
 
 ![Banner](https://img.freepik.com/photos-premium/fond-technologie-abstrait-code-programmation-developpeur-logiciels-script-informatique_34663-31.jpg)
 
-**Étudiant en BTS SIO 2ème année** | **Développeur Web** | **Passionné de Technologie**
+**2nd Year BTS SIO Student** | **Web Developer** | **Technology Enthusiast**
 
-## 📖 À propos de moi
+## 📖 About Me
 
-🎓 **Formation:**
-- Baccalauréat: Spécialité mathématiques / NSI (2023 - 2024)
-- BTS SIO (Services Informatiques aux Organisations): 2ème année
-- Option: SLAM 
+🎓 **Education:**
 
-💼 **Objectifs:**
-- Domaines d'intérêt : Sport, Programmation
-- Emplois en développement WEB
+* Baccalaureate: Mathematics / NSI specialization (2023 - 2024)
+* BTS SIO (IT Services for Organizations): 2nd year
+* Option: SLAM
 
-🌟 **Centres d'intérêt:**
-- Langages préférés : HTML, CSS, PHP
-- ...
+💼 **Goals:**
 
-## 🛠 Compétences & Technologies
+* Fields of interest: Sports, Programming
+* Jobs in Web Development
 
-### 💻 Langages de Programmation
-<div align="center">
+🌟 **Interests:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* Favorite languages: HTML, CSS, PHP
+* ...
 
-</div>
+## 🛠 Skills & Technologies
 
-### 🌐 Développement Web
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
-### 🗃️ Bases de Données & Outils
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## 📂 Projets
-
-### 🚀 Projets en Cours
-- **Portfolio**: Regroupe mes travaux en développement, design et expérimentations.
-
-### 💡 Projets à Venir
-- **Site surprise**: surprise
-
-## 📊 Statistiques GitHub
+### 💻 Programming Languages
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=maxs-gld&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=maxs-gld&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 </div>
 
-## 🏆 Accomplissements
-
-### 🎓 Certifications & Diplômes
-- **Baccalauréat**: 2023 - 2024
-- **BTS SIO**: En cours (Terminal en 2024)
-- **Certifications réalisés (Openclassroom)**: Python, Java, CSS moderne, PHP et MySQL, Linux, HTML et CSS
-
-## 📫 Me Contacter
+### 🌐 Web Development
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxs-gld)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-gaillard-182161328/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 </div>
 
-## 📝 Dernières Activités
+### 🗃️ Databases & Tools
 
-🚀 Nouvelles compétences en développement en cours d'acquisition  
-📚 Formation BTS SIO en progression  
-💼 Projets étudiants en développement + certification
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+
+</div>
+
+## 📂 Projects
+
+### 🚀 Ongoing Projects
+
+* **Portfolio**: Showcasing my development work, design, and experiments.
+
+### 💡 Upcoming Projects
+
+* **Surprise website**: surprise
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxs-gld\&show_icons=true\&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxs-gld\&layout=compact\&theme=radical)
+
+</div>
+
+## 🏆 Achievements
+
+### 🎓 Certifications & Diplomas
+
+* **Baccalaureate**: 2023 - 2024
+* **BTS SIO**: In progress (Graduation in 2024)
+* **Completed Certifications (OpenClassrooms)**: Python, Java, Modern CSS, PHP & MySQL, Linux, HTML & CSS
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/maxs-gld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maxence-gaillard-182161328/)
+
+</div>
+
+## 📝 Latest Activities
+
+🚀 New development skills in progress
+📚 BTS SIO training ongoing
+💼 Student projects + certifications
 
 ---
 
 <div align="center">
 
-⭐️ *"Le succès est la somme de petits efforts répétés jour après jour."* ⭐️
+⭐️ *"Success is the sum of small efforts repeated day after day."* ⭐️
 
 </div>
 
 ---
 
-**📧 Email**: maxence.gaillard.49@gmail.com 
-**📍 Localisation**: Angers / Cholet 
-**🎯 Statut**: À la recherche de stage
+**📧 Email**: [maxence.gaillard.49@gmail.com](mailto:maxence.gaillard.49@gmail.com)
+**📍 Location**: Angers / Cholet
+**🎯 Status**: Looking for an internship
 
 ---
 
-*Dernière mise à jour: 2024*
+*Last updated: 2024*
